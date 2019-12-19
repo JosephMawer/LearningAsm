@@ -1,9 +1,0 @@
-﻿  Assembling Test.asm...
-  Main.cpp
-C:\Users\joseph.mawer.IDEA\source\repos\AssemblyDemo\AssemblyDemo\Main.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-Test.obj : error LNK2026: module unsafe for SAFESEH image.
-C:\Users\joseph.mawer.IDEA\source\repos\AssemblyDemo\Release\AssemblyDemo.exe : fatal error LNK1281: Unable to generate SAFESEH image.

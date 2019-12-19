@@ -1,4 +1,0 @@
-﻿  Assembling Test.asm...
-  Main.cpp
-C:\Users\joseph.mawer.IDEA\source\repos\AssemblyDemo\AssemblyDemo\Main.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  AssemblyDemo.vcxproj -> C:\Users\joseph.mawer.IDEA\source\repos\AssemblyDemo\Debug\AssemblyDemo.exe
