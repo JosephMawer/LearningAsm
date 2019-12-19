@@ -1,0 +1,5 @@
+﻿  Assembling Test.asm...
+Test.asm(2): error A2008: syntax error : .
+Test.asm(3): error A2008: syntax error : .
+Test.asm(4): error A2008: syntax error : .
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Test.obj" /W3 /errorReport:prompt  /TaTest.asm" exited with code 1.
